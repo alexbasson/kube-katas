@@ -6,7 +6,9 @@ Check out the Miro board here: https://miro.com/app/board/o9J_kttprZI=/
 
 ## Doing a Kata
 
-Please fork this repo to your own GitHub account so that this repo doesn't become populated with solutions.
+Please fork* this repo to your own GitHub account so that this repo doesn't become populated with solutions.
+
+*For security reasons, the Pivotal org does not enable forking repositories. You can work around this by cloning the repo and then changing `origin` to point to your own GitHub account.
 
 ## The Katas
 
